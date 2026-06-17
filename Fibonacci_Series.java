@@ -15,6 +15,7 @@ public class Fibonacci_Series {
             System.out.println(c); // YOU WRITE THIS LINE ANYWHERE ABOVE AND BELOW
             a=b;
             b=c;
+            sc.close();
         }
     }
 }
